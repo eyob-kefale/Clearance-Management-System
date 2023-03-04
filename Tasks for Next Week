@@ -1,0 +1,4 @@
+Tasks for Next Meeting
+Creating GUID for different users (student, officers like department head, registrar, ICT directorate, librarian with their respective roles, and so on as per the requirement stated in the document),
+Perform CRUD operations for the identified users: Hint try to map detailed classes to collections and document
+performing unit testing for above operations,
